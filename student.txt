@@ -1,0 +1,8 @@
+id	name	major	gender	grade	course  
+101	Bill	CIS	M  92	CIS240
+102	Mary	CIS	F  88	CIS240
+103	Sue	Marketing	F	82  MKT115
+104	Tom	Finance		M	78   DBA120
+105	Alex	CIS	M  96	CIS240
+106	Sam	Marketing	M	67	MKT115
+107	Jane	Finance	F	95	DBA120
